@@ -18,6 +18,7 @@ let historiaFinal = "";
 botaoIniciar.addEventListener('click', iniciaJogo);
 
 function iniciaJogo() {
+    
     atual = 0;
     historiaFinal = "";
     telaInicial.style.display = 'none';
